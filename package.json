@@ -4,8 +4,11 @@
   "description": "demoing node, NPM, and twitter",
   "main": "sketch.js",
   "scripts": {
+
     "start": "sketch.js",
+    "minUptime": "5000",
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "author": "Cameron Priestley",
   "license": "ISC",
