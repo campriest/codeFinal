@@ -1,10 +1,10 @@
 {
-  "name": "01-node_npm_twitter_basics",
+  "name": "finalCode",
   "version": "1.0.0",
   "description": "demoing node, NPM, and twitter",
-  "main": "bot.js",
+  "main": "sketch.js",
   "scripts": {
-    "start": "node bot.js",
+    "start": "sketch.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cameron Priestley",
