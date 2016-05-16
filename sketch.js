@@ -18,12 +18,10 @@ var request = require("request"),
                     console.log(data);
                     console.log(err);
                     console.log(response);
-
-
-                });
+                        });
                 }
 
-                    setInterval(poster, 10*60*1000);
+                    setInterval(poster, 16*60*1000);
 
             // var T = new Twit(config);
 
